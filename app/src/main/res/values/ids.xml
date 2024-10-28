@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="agendaNameTextView" type="id" />
+    <item name="agendaDescriptionTextView" type="id" />
+    <item name="statusTextView" type="id" />
+</resources>
